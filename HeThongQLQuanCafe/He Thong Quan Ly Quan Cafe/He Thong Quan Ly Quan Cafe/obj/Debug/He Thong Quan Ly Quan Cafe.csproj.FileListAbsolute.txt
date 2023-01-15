@@ -104,16 +104,3 @@ D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan 
 D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
 D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
 D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
-D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb

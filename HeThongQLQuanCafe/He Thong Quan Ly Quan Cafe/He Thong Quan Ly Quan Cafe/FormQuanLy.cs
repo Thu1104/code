@@ -207,7 +207,7 @@ namespace He_Thong_Quan_Ly_Quan_Cafe
             }
             catch (Exception ex)
             {
-               MessageBox.Show("Trùng mã hóa đơn!");
+               MessageBox.Show("Thất bại!");
             }
             DBIO.updateBanTrong(cbDSBan.SelectedValue.ToString(), 1);
             reset_HoaDon();

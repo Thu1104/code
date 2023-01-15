@@ -114,7 +114,7 @@ namespace He_Thong_Quan_Ly_Quan_Cafe
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Times New Roman", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(130, 56);
+            this.label5.Location = new System.Drawing.Point(103, 56);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(77, 26);
             this.label5.TabIndex = 19;
