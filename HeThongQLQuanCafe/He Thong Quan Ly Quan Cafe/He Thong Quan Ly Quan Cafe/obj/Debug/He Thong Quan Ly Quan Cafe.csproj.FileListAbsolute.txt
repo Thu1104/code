@@ -1,0 +1,119 @@
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FromQuanLy.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormThongTinCaNhan.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FromQuanLy.resources
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormThongTinCaNhan.resources
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+E:\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+C:\Users\PC\Desktop\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+C:\Users\Trung Hieu\Documents\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\EmYeu_Project\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\NguyenThiAnhThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\PTUDTrenWindow\CT25102_B1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe.config
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\bin\Debug\He Thong Quan Ly Quan Cafe.pdb
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.AssemblyReference.cache
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormAdmin.resources
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDangNhap.resources
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormDoiMatKhau.resources
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.FormQuanLy.resources
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He_Thong_Quan_Ly_Quan_Cafe.Properties.Resources.resources
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.GenerateResource.cache
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.csproj.CoreCompileInputs.cache
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.exe
+D:\Mon\NienLuanCS\CT27104_ThuB1809301\He Thong Quan Ly Quan Cafe\He Thong Quan Ly Quan Cafe\obj\Debug\He Thong Quan Ly Quan Cafe.pdb
